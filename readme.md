@@ -675,7 +675,7 @@ Se você quiser evoluir este projeto, pode organizar assim:
 
 ## 🧾 Autoria
 
-**SEU_NOME (Valeska L V)** 
+**Valeska L V** 
 
 Entrega da aula: **IA Mentor de Carreira — Descubra Seu Futuro em Tech** 
 
