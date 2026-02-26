@@ -642,3 +642,42 @@ NOME_DO_REPO/
 └─ sql/
 
 
+---
+
+## ✅ Como usar este repositório (ritual semanal)
+
+Sugestão para 6h/semana:
+2h — assistir conteúdo guiado (vídeo/curso)
+3h — prática: construir 1 melhoria real
+1h — GitHub: documentar (prints + README) + commit + issue/PR
+
+📌 Regra de ouro: toda semana tem entrega, mesmo que pequena.
+
+💬 Roteiro de Entrevistas (treino)
+
+Me conte um projeto de automação que você fez e o impacto gerado.
+Quando usar Power Automate cloud vs desktop (RPA)?
+Como você trata erro e manutenção de fluxos?
+Como garante qualidade dos dados e governança?
+Como está evoluindo do low-code para mais “código”?
+Treino de narrativa: Problema → Solução → Impacto → Aprendizados → Próximos passos.
+
+
+---
+
+## 🗺️ Linha do tempo da conversa
+
+Definição do desafio e formato do plano
+Coleta dos inputs pessoais (carreira, horas, preferências, interesses)
+Entrega do plano inicial e evolução para 120 dias Inclusão do GitHub-first (portfólio desde a Semana 1)
+Curadoria de cursos: no/low-code, IA/Agentes e banco de dados
+Geração da planilha Excel com a trilha detalhada
+Inclusão de 3 cursos do YouTube na planilha
+
+
+---
+
+## 📣 Contato
+
+SEU_NOME LinkedIn: https://www.linkedin.com/in/SEU_LINKEDIN
+GitHub: https://github.com/SEU_USUARIO"
