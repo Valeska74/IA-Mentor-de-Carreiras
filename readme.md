@@ -1,32 +1,49 @@
-# 🤖 Projeto de Entrega — Mentor de Carreira (Entrevista Guiada e Plano Completo)
+<!--
 
-> **Projeto de entrega (aula):** entrevista guiada por IA para mapear perfil, sugerir carreiras e orientar uma pesquisa de mercado e Roadmap Personalizado — Low-Code • Automação • IA • Dados (120 dias).
----
+README consolidado
 
-> **Objetivo do projeto:** documentar uma mentoria de carreira feita via IA e transformar o resultado em um plano real, com entregas semanais, evidências no GitHub e um portfólio aplicável ao meu contexto profissional.
+Projeto de entrega: IA Mentor de Carreira — Descubra Seu Futuro em Tech
 
----
+Etapa 1: Entrevista Estruturada (diagnóstico + recomendações + pesquisa de mercado)
+
+Etapa 2: Plano Completo Personalizado (roadmap 120 dias + portfólio + entrevistas + planilha)
+
+Autoria: Valeska
+
+-->
  
 
-![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
+# 🤖 IA Mentor de Carreira — Descubra Seu Futuro em Tech 
 
-![Projeto](https://img.shields.io/badge/projeto-acad%C3%AAmico-blue)
+## Entrevista Estruturada + Plano Completo Personalizado (Roadmap 120 dias)
 
-![IA](https://img.shields.io/badge/IA-M365%20Copilot-5c2d91)
+ 
 
-![Linguagem](https://img.shields.io/badge/markdown-README-informational)
+![status](https://img.shields.io/badge/status-conclu%C3%ADdo%20%2B%20em%20evolu%C3%A7%C3%A3o-brightgreen)
 
-![Tema](https://img.shields.io/badge/tema-carreira%20em%20tech-orange)
+![projeto](https://img.shields.io/badge/projeto-entrega%20acad%C3%AAmica-blue)
 
-[![Roadmap](https://img.shields.io/badge/roadmap-120%20dias-purple)](#-roadmap-120-dias)
+![ia](https://img.shields.io/badge/IA-M365%20Copilot-5c2d91)
 
-[![GitHub](https://img.shields.io/badge/github-portf%C3%B3lio%20first-black)](#-github-first)
+![github](https://img.shields.io/badge/GitHub-portf%C3%B3lio%20first-black)
 
-[![Power%20Platform](https://img.shields.io/badge/Microsoft-Power%20Platform-742774)](#-stack--ferramentas)
+![roadmap](https://img.shields.io/badge/roadmap-120%20dias-purple)
 
-[![Learning](https://img.shields.io/badge/aprendizagem-v%C3%ADdeo%20%2B%20pr%C3%A1tica%20%2B%20projetos-brightgreen)](#-como-eu-aprendo)
+![tema](https://img.shields.io/badge/tema-carreira%20em%20tech-orange)
 
-[![Remote](https://img.shields.io/badge/prefer%C3%AAncia-remoto-0aa6ff)](#) 
+![aprendizagem](https://img.shields.io/badge/aprendizagem-v%C3%ADdeo%20%2B%20pr%C3%A1tica%20%2B%20projetos-brightgreen)
+
+![remoto](https://img.shields.io/badge/prefer%C3%AAncia-remoto-0aa6ff)
+
+ 
+
+> **Descrição consolidada:** Este repositório documenta uma mentoria de carreira conduzida por IA em duas etapas: 
+
+> **(1) Entrevista Estruturada** para mapear perfil, interesses e direção de carreira, com recomendações e extensão de pesquisa de mercado; e 
+
+> **(2) Plano Completo Personalizado** com **roadmap de 120 dias**, **projeto de portfólio**, **roteiro de entrevistas** e **planilha Excel** com a trilha detalhada — orientado à carreira de **Desenvolvedor(a) Low-Code / Especialista em Automação (Power Platform/RPA/Integrações)**.
+
+ 
 
 ---
 
@@ -34,63 +51,87 @@
 
 ## 📌 Sumário
 
-- [🎯 Objetivo](#-objetivo)
+- [📍 Sobre o projeto](#-sobre-o-projeto)
 
-- [🧭 Metodologia](#-metodologia)
+- [🧭 Etapa 1 — Entrevista Estruturada](#-etapa-1--entrevista-estruturada)
 
-- [👤 Perfil coletado (resumo)](#-perfil-coletado-resumo)
+  - [🎯 Objetivo](#-objetivo-etapa-1)
 
-- [📝 Entrevista (7 perguntas)](#-entrevista-7-perguntas)
+  - [🧪 Metodologia (7 perguntas)](#-metodologia-7-perguntas)
 
-- [🏁 Resultado: 3 carreiras recomendadas](#-resultado-3-carreiras-recomendadas)
+  - [👤 Perfil coletado (resumo)](#-perfil-coletado-resumo)
 
-- [🔎 Extensão: pesquisa de mercado (média gestão)](#-extensão-pesquisa-de-mercado-média-gestão)
+  - [🏁 Resultado: 3 carreiras recomendadas](#-resultado-3-carreiras-recomendadas)
 
-- [📦 Estrutura sugerida do repositório](#-estrutura-sugerida-do-repositório)
+  - [🔎 Extensão: pesquisa de mercado (média gestão)](#-extensão-pesquisa-de-mercado-média-gestão)
 
-- [📚 Fontes consultadas](#-fontes-consultadas)
+  - [📚 Fontes consultadas](#-fontes-consultadas)
+
+- [🚀 Etapa 2 — Plano Completo Personalizado](#-etapa-2--plano-completo-personalizado)
+
+  - [🎯 Objetivo de carreira](#-objetivo-de-carreira)
+
+  - [🧩 Visão do dia a dia da carreira](#-visão-do-dia-a-dia-da-carreira)
+
+  - [🧠 Mapa de skills](#-mapa-de-skills)
+
+  - [📅 Roadmap 120 dias (visão geral)](#-roadmap-120-dias-visão-geral)
+
+  - [🚀 Projeto de portfólio](#-projeto-de-portfólio)
+
+  - [📦 Entregáveis](#-entregáveis)
+
+  - [🎓 Cursos & recursos (curadoria)](#-cursos--recursos-curadoria)
+
+  - [✅ Ritual semanal (6h/semana)](#-ritual-semanal-6hsemana)
+
+  - [💬 Roteiro de entrevistas (treino)](#-roteiro-de-entrevistas-treino)
+
+- [📁 Estrutura sugerida do repositório](#-estrutura-sugerida-do-repositório)
+
+- [🗺️ Linha do tempo da mentoria](#️-linha-do-tempo-da-mentoria)
 
 - [⚠️ Observações](#️-observações)
 
 - [🧾 Autoria](#-autoria)
 
- - [📍 Sobre o Projeto](#-sobre-o-projeto)
-
-- [🎯 Objetivo de Carreira](#-objetivo-de-carreira)
-
-- [🧠 Meu Perfil (inputs da mentoria)](#-meu-perfil-inputs-da-mentoria)
-
-- [🧩 Visão do Dia a Dia da Carreira](#-visão-do-dia-a-dia-da-carreira)
-
-- [🧠 Mapa de Skills](#-mapa-de-skills)
-
-- [📅 Roadmap 120 dias](#-roadmap-120-dias)
-
-- [🚀 Projeto de Portfólio](#-projeto-de-portfólio)
-
-- [📦 Entregáveis](#-entregáveis)
-
-- [🎓 Cursos & Recursos (curadoria)](#-cursos--recursos-curadoria)
-
-- [📁 Estrutura do Repositório](#-estrutura-do-repositório)
-
-- [✅ Como usar este repositório (ritual semanal)](#-como-usar-este-repositório-ritual-semanal)
-
-- [💬 Roteiro de Entrevistas (treino)](#-roteiro-de-entrevistas-treino)
-
-- [🗺️ Linha do tempo da conversa](#-linha-do-tempo-da-conversa)
-
-- [📣 Contato](#-contato)
-
-
+ 
 
 ---
 
  
 
-## 🎯 Objetivo
+## 📍 Sobre o projeto
 
-Documentar uma **interação completa** com um **Mentor de Carreira baseado em IA**, que conduz:
+ 
+
+Este repositório é a **entrega da aula** **"IA Mentor de Carreira: Descubra Seu Futuro em Tech"**.
+
+ 
+
+A mentoria foi organizada em **duas etapas complementares**:
+
+ 
+
+- **Etapa 1 — Entrevista Estruturada:** diagnóstico orientado por perguntas (uma por vez) para mapear perfil + recomendações e pesquisa de mercado (média gestão). 
+
+- **Etapa 2 — Plano Completo Personalizado:** plano de estudos com roadmap de 120 dias (16 semanas), projeto de portfólio, roteiro de entrevistas e planilha Excel.
+
+ 
+
+---
+
+ 
+
+# 🧭 Etapa 1 — Entrevista Estruturada
+
+ 
+
+## 🎯 Objetivo (Etapa 1)
+
+Documentar uma **interação completa** com um Mentor de Carreira baseado em IA, que conduz:
+
+ 
 
 1) uma entrevista estruturada em 7 perguntas (uma por vez), 
 
@@ -98,13 +139,13 @@ Documentar uma **interação completa** com um **Mentor de Carreira baseado em I
 
 3) e uma extensão com **pesquisa de mercado** direcionada a **média gestão (equipes e projetos)**.
 
-4) documentar uma mentoria de carreira feita via IA e transformar o resultado em um plano real, com entregas semanais, evidências no GitHub e um portfólio aplicável ao meu contexto profissional. 
+ 
 
 ---
 
  
 
-## 🧭 Metodologia
+## 🧪 Metodologia (7 perguntas)
 
 A entrevista seguiu a lógica:
 
@@ -222,23 +263,23 @@ A entrevista seguiu a lógica:
 
 ## 🏁 Resultado: 3 carreiras recomendadas
 
-> Abaixo, o ranking de carreiras proposto pela IA, com justificativas baseadas nas respostas.
+> Ranking proposto pela IA, com justificativas baseadas nas respostas.
 
  
 
 ### 🥇 1º lugar — Analista de Dados / BI (com viés de automação e IA aplicada)
 
-**Por que combina:** forte alinhamento com *resolução de problemas + preferência por dados + experiência em processos/otimização e projetos*. 
+**Por que combina:** alinhamento com *resolução de problemas + preferência por dados + experiência em processos/otimização e projetos*. 
 
 **Vantagens esperadas:** impacto rápido no trabalho atual; base sólida para IA aplicada. 
 
-**Desafios esperados:** construir consistência técnica (ex.: SQL/visualização/modelagem) e narrativa de dados.
+**Desafios esperados:** consistência técnica (SQL/visualização/modelagem) e narrativa de dados.
 
  
 
 ### 🥈 2º lugar — Desenvolvedor(a) Low-Code / Especialista em Automação (Power Platform/RPA/Integrações)
 
-**Por que combina:** seu repertório em processos e soluções favorece automação; caminho gradual para “entrar em código”. 
+**Por que combina:** repertório em processos e soluções favorece automação; caminho gradual para “entrar em código”. 
 
 **Vantagens esperadas:** entregas rápidas; ideal para 6h/semana com ganhos progressivos. 
 
@@ -248,7 +289,7 @@ A entrevista seguiu a lógica:
 
 ### 🥉 3º lugar — Product Analyst / CX Analytics (Dados + Jornada do Cliente + Experimentos)
 
-**Por que combina:** aproveita sua experiência em jornada do cliente e melhorias; ponte entre negócio e tecnologia. 
+**Por que combina:** aproveita experiência em jornada do cliente e melhorias; ponte entre negócio e tecnologia. 
 
 **Vantagens esperadas:** alta aderência ao histórico; influência estratégica com métricas e hipóteses. 
 
@@ -286,37 +327,23 @@ Após o ranking, foi solicitada uma pesquisa de mercado com foco em **oportunida
 
 ---
 
-
-## 📦 Estrutura sugerida do repositório
-
-Se você quiser evoluir este projeto, pode organizar assim:
-
  
-
-- `README.md` → este arquivo (visão geral) 
-
-- `docs/`
-
-  - `perfil.md` → síntese do perfil e premissas
-
-  - `ranking_carreiras.md` → ranking + critérios + justificativas
-
-  - `pesquisa_mercado.md` → mapeamento de oportunidades e termos de busca
-
-- `assetselatórios (TIC no Brasil)**: https://brasscom.org.br/estudos-e-relatorios/ [2](https://brasscom.org.br/estudos-e-relatorios/)
-
-
-
----
-
 
 ## 📚 Fontes consultadas
 
-- **Brasscom — Demanda de Talentos (apresentação/compilado)**: https://legis.senado.leg.br/sdleg-getter/documento/download/c69c42b7-7beb-466b-941f-bd6b5309933e [3](https://legis.senado.leg.br/sdleg-getter/documento/download/c69c42b7-7beb-466b-941f-bd6b5309933e) 
+> Apoio na parte de mercado e tendências.
 
-- **PwC — Barômetro de Empregos de IA 2025**: https://www.pwc.com.br/pt/estudos/servicos/consultoria-negocios/2025/barometro-de-empregos-de-inteligencia-artificial-2025.html [4](https://www.pwc.com.br/pt/estudos/servicos/consultoria-negocios/2025/barometro-de-empregos-de-inteligencia-artificial-2025.html) 
+ 
 
-- **TOTVS/H2R — Panorama IA nas empresas brasileiras (PDF)**: https://conteudo.totvs.com/hubfs/Estudo_Panorama_IA_2025.pdf [5](https://conteudo.totvs.com/hubfs/Estudo_Panorama_IA_2025.pdf) 
+- State of Data Brazil 2024/2025 (Dados & IA no Brasil): https://www.datahackers.news/p/relatorio2024-2025 
+
+- Brasscom — Estudos e Relatórios (TIC no Brasil): https://brasscom.org.br/estudos-e-relatorios/ 
+
+- Brasscom — Demanda de Talentos (apresentação/compilado): https://legis.senado.leg.br/sdleg-getter/documento/download/c69c42b7-7beb-466b-941f-bd6b5309933e 
+
+- PwC — Barômetro de Empregos de IA 2025: https://www.pwc.com.br/pt/estudos/servicos/consultoria-negocios/2025/barometro-de-empregos-de-inteligencia-artificial-2025.html 
+
+- TOTVS/H2R — Panorama IA nas empresas brasileiras (PDF): https://conteudo.totvs.com/hubfs/Estudo_Panorama_IA_2025.pdf 
 
  
 
@@ -326,58 +353,13 @@ Se você quiser evoluir este projeto, pode organizar assim:
 
 ---
 
-   
+ 
 
-## ⚠️ Observações
-
-- Esta entrega **não inclui plano de estudos**, pois o escopo aqui é **entrevista + diagnóstico + recomendações + pesquisa de mercado**. 
-
-- Não foram informados **salários específicos**, para evitar distorções por região/senioridade e manter a orientação ética.
+# 🚀 Etapa 2 — Plano Completo Personalizado
 
  
 
----
-
- 
-
-## 🧾 Autoria
-
-**Valeska L V** 
-
-Entrega da aula: **IA Mentor de Carreira — Descubra Seu Futuro em Tech**
-
-
----
-
- 
-
-## 📍 Sobre o Projeto
-
- 
-
-O conteúdo a seguir é refrente a segunda parte da **entrega da aula** **"IA Mentor de Carreira: Descubra Seu Futuro em Tech"**, onde utilizei uma IA para:
-
- 
-
-- Definir uma carreira-alvo em tecnologia (com base em preferências e histórico)
-
-- Criar um **roadmap de 120 dias (16 semanas)**
-
-- Construir um projeto de portfólio orientado a impacto real
-
-- Organizar uma **planilha Excel** com tópicos por semana + recursos
-
-- Incluir **GitHub-first** (estudo com evidências desde a Semana 1)
-
- 
-
----
-
- 
-
-## 🎯 Objetivo de Carreira
-
- 
+## 🎯 Objetivo de carreira
 
 📌 **Carreira alvo:** Desenvolvedor(a) Low-Code / Especialista em Automação 
 
@@ -391,33 +373,7 @@ O conteúdo a seguir é refrente a segunda parte da **entrega da aula** **"IA Me
 
  
 
-## 🧠 Meu Perfil (inputs da mentoria)
-
- 
-
-- **Disponibilidade:** 6h/semana 
-
-- **Experiência:** zero 
-
-- **Preferência:** dados (com evolução gradual para código) 
-
-- **Interesses:** dados, IA, no/low code, automação 
-
-- **Aprendo melhor:** vídeo + prática + projetos 
-
-- **Background:** contabilidade, operações, neurociência e análise do comportamento humano 
-
-- **Preferência de trabalho:** remoto 
-
- 
-
----
-
- 
-
-## 🧩 Visão do Dia a Dia da Carreira
-
- 
+## 🧩 Visão do dia a dia da carreira
 
 O trabalho no dia a dia envolve:
 
@@ -439,7 +395,7 @@ O trabalho no dia a dia envolve:
 
  
 
-## 🧠 Mapa de Skills
+## 🧠 Mapa de skills
 
  
 
@@ -469,9 +425,7 @@ O trabalho no dia a dia envolve:
 
  
 
-## 📅 Roadmap 120 dias
-
- 
+## 📅 Roadmap 120 dias (visão geral)
 
 > **Formato:** 16 semanas (6h/semana) 
 
@@ -479,7 +433,7 @@ O trabalho no dia a dia envolve:
 
  
 
-### Macroetapas (visão geral)
+### Macroetapas
 
 - **Semanas 1–4:** GitHub + Fundamentos + Power Automate (base e qualidade) 
 
@@ -491,7 +445,7 @@ O trabalho no dia a dia envolve:
 
  
 
-📌 **Roadmap detalhado por semana:** veja a planilha na seção [Entregáveis](#-entregáveis).
+📌 **Roadmap detalhado por semana:** está na planilha Excel (entregável do projeto).
 
  
 
@@ -499,7 +453,7 @@ O trabalho no dia a dia envolve:
 
  
 
-## 🚀 Projeto de Portfólio
+## 🚀 Projeto de portfólio
 
  
 
@@ -539,7 +493,7 @@ O trabalho no dia a dia envolve:
 
 ✅ **Planilha Excel do Roadmap (120 dias)** 
 
-> Arquivo com 3 abas:
+Arquivo com 3 abas:
 
 - `Roadmap_16_semanas` (tópicos, prática, entregáveis)
 
@@ -549,19 +503,19 @@ O trabalho no dia a dia envolve:
 
  
 
-📎 **Arquivo:** `trilha_lowcode_automacao_ia_sql_120dias_v2.xlsx` 
+📎 **Arquivo sugerido:** `trilha_lowcode_automacao_ia_sql_120dias_v2.xlsx` 
 
-> (Adicione aqui o link do arquivo no repositório ou na seção Releases.)
+> Dica: coloque o arquivo em `/assets/` ou em **Releases** e linke aqui.
 
  
 
-✅ **Evidências no GitHub**
+✅ **Evidências no GitHub (GitHub-first)**
 
 - Commits semanais (mínimo 2/semana)
 
 - Issues para melhorias
 
-- Branch + Pull Request (mesmo solo) nas semanas de evolução
+- Branch + Pull Request (mesmo solo) em semanas de evolução
 
 - Releases (v0.1, v0.2… v1.0)
 
@@ -571,7 +525,7 @@ O trabalho no dia a dia envolve:
 
  
 
-## 🎓 Cursos & Recursos (curadoria)
+## 🎓 Cursos & recursos (curadoria)
 
  
 
@@ -599,7 +553,7 @@ O trabalho no dia a dia envolve:
 
  
 
-> Os links estão organizados na aba `Cursos_e_Recursos` da planilha.
+> Observação: os links estão listados e organizados na aba `Cursos_e_Recursos` da planilha.
 
  
 
@@ -607,77 +561,132 @@ O trabalho no dia a dia envolve:
 
  
 
-## 📁 Estrutura do Repositório
+## ✅ Ritual semanal (6h/semana)
 
  
 
-```text
+Sugestão prática:
 
-NOME_DO_REPO/
+- **2h** — assistir conteúdo guiado (vídeo/curso)
 
-├─ README.md
+- **3h** — prática: construir 1 melhoria real (flow/app/sql)
 
-├─ LOG_DE_ESTUDOS.md
+- **1h** — GitHub: documentar (prints + README) + commit + issue/PR
 
-├─ CHANGELOG.md
+ 
 
-├─ PORTFOLIO.md
+📌 Regra de ouro: **toda semana tem entrega**, mesmo que pequena.
 
-├─ semana-01-02/
-
-│  ├─ anotacoes.md
-
-│  └─ prints/
-
-├─ flows/
-
-├─ app/
-
-├─ dataverse/
-
-├─ integracoes/
-
-├─ ia/
-
-└─ sql/
-
+ 
 
 ---
 
-## ✅ Como usar este repositório (ritual semanal)
+ 
 
-Sugestão para 6h/semana:
-2h — assistir conteúdo guiado (vídeo/curso)
-3h — prática: construir 1 melhoria real
-1h — GitHub: documentar (prints + README) + commit + issue/PR
+## 💬 Roteiro de entrevistas (treino)
 
-📌 Regra de ouro: toda semana tem entrega, mesmo que pequena.
+ 
 
-💬 Roteiro de Entrevistas (treino)
+1) Me conte um projeto de automação que você fez e o impacto gerado. 
 
-Me conte um projeto de automação que você fez e o impacto gerado.
-Quando usar Power Automate cloud vs desktop (RPA)?
-Como você trata erro e manutenção de fluxos?
-Como garante qualidade dos dados e governança?
-Como está evoluindo do low-code para mais “código”?
-Treino de narrativa: Problema → Solução → Impacto → Aprendizados → Próximos passos.
+2) Quando usar Power Automate cloud vs desktop (RPA)? 
 
+3) Como você trata erro e manutenção de fluxos? 
 
----
+4) Como garante qualidade dos dados e governança? 
 
-## 🗺️ Linha do tempo da conversa
+5) Como está evoluindo do low-code para mais “código”?
 
-Definição do desafio e formato do plano
-Coleta dos inputs pessoais (carreira, horas, preferências, interesses)
-Entrega do plano inicial e evolução para 120 dias Inclusão do GitHub-first (portfólio desde a Semana 1)
-Curadoria de cursos: no/low-code, IA/Agentes e banco de dados
-Geração da planilha Excel com a trilha detalhada
-Inclusão de 3 cursos do YouTube na planilha
+ 
 
+> Treino de narrativa: **Problema → Solução → Impacto → Aprendizados → Próximos passos**.
+
+ 
 
 ---
 
-## 📣 Contato
+ 
 
-SEU_NOME LinkedIn: https://www.linkedin.com/in/SEU_LINKEDIN
-GitHub: https://github.com/SEU_USUARIO"
+## 📁 Estrutura sugerida do repositório
+
+Se você quiser evoluir este projeto, pode organizar assim:
+
+ 
+
+- `README.md` → este arquivo (visão geral consolidada)
+
+- `docs/`
+
+  - `etapa1_entrevista.md` → entrevista completa + ranking + pesquisa de mercado
+
+  - `etapa2_plano.md` → plano/roadmap + projeto de portfólio + entrevistas
+
+- `assets/`
+
+  - `trilha_lowcode_automacao_ia_sql_120dias_v2.xlsx` → planilha
+
+  - `prints/` → imagens e evidências (opcional)
+
+ 
+
+---
+
+ 
+
+## 🗺️ Linha do tempo da mentoria
+
+ 
+
+1. Definição do desafio e formato do projeto 
+
+2. Coleta do perfil via entrevista estruturada (7 perguntas) 
+
+3. Ranking de 3 carreiras + extensão de pesquisa de mercado (média gestão) 
+
+4. Escolha/afunilamento da carreira para Low-Code/Automação 
+
+5. Construção do plano completo e evolução para **120 dias** 
+
+6. Inclusão do **GitHub-first** no cronograma 
+
+7. Curadoria de cursos (No/Low-code, IA/Agentes, Banco de Dados) 
+
+8. Geração de planilha Excel com trilha detalhada + inclusão de playlists do YouTube 
+
+ 
+
+---
+
+ 
+
+## ⚠️ Observações
+
+- O foco é **orientação e organização de aprendizagem** (não substitui aconselhamento formal de RH). 
+
+- Salários não foram incluídos para evitar distorções por região/senioridade e manter a orientação ética. 
+
+- Links de vagas e plataformas variam com o tempo; por isso a ênfase está em **termos, competências e evidências**.
+
+ 
+
+---
+
+ 
+
+## 🧾 Autoria
+
+**SEU_NOME (Valeska L V)** 
+
+Entrega da aula: **IA Mentor de Carreira — Descubra Seu Futuro em Tech** 
+
+ 
+
+- LinkedIn: https://www.linkedin.com/in/SEU_LINKEDIN 
+
+- GitHub: https://github.com/SEU_USUARIO 
+
+ 
+
+---
+
+⭐ Se este repositório te ajudou (ou inspirou), deixe uma estrela!
